@@ -1,0 +1,8 @@
+com\bezkoder\springgraphql\mysql\model\Tutorial.class
+com\bezkoder\springgraphql\mysql\repository\TutorialRepository.class
+com\bezkoder\springgraphql\mysql\model\Author.class
+com\bezkoder\springgraphql\mysql\resolver\TutorialResolver.class
+com\bezkoder\springgraphql\mysql\resolver\Query.class
+com\bezkoder\springgraphql\mysql\SpringBootGraphqlMysqlApplication.class
+com\bezkoder\springgraphql\mysql\repository\AuthorRepository.class
+com\bezkoder\springgraphql\mysql\resolver\Mutation.class
